@@ -12,6 +12,12 @@ var config_data = `
       "maxSize": 5,
       "required": "true"
     },
+    { "name": "Test",
+      "code": "e",
+      "type": "event",
+      "defaultValue": "testtest",
+      "required": "true"
+    },
     { "name": "Event",
       "code": "e",
       "type": "event",
